@@ -20,6 +20,7 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '5.2.0'
 }
 
+apply plugin: 'base'
 apply plugin: 'java'
 apply plugin: 'nebula-aggregate-javadocs'
 apply plugin: 'maven'
