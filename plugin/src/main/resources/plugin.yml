@@ -1,0 +1,6 @@
+name: ShatteredUtilities
+main: com.github.ShatteredSuite.ShatteredUtilities.ShatteredUtilities
+version: 2.0.0
+authors:
+    - UberPilot
+description: A library plugin for other plugins in the ShatteredSuite. Handles NMS, messages, commands, and items.
